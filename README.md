@@ -59,6 +59,6 @@ where <file> is the name of the file
 - You have to use malloc and free and are not allowed to use any other function from man malloc (realloc, calloc, …)
 
 # contributors
-  Abel Kibebe <abelkibebe5@gmail.com>
+  Abel Kibebe <abelkibebe5@gmail.com> 
   Aiman Mengesha <aymen123mengesha@gmail.com>
   
